@@ -1,0 +1,33 @@
+h1 {
+    color: firebrick;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    padding: 5%;
+}
+
+#thirdDiv {
+    position: relative;
+    color: blanchedalmond;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    height: auto;
+    width: 500px;
+    padding: 50px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    justify-content: center;
+    text-align: center;
+    background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/new-fondo1lateral.jpg);
+}
